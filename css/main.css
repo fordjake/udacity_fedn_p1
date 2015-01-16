@@ -1,0 +1,48 @@
+* {
+	font-family: Verdana, sans-serif;
+}
+
+#mockup-wrapper {
+	left: 0;
+	padding: 0 43px;
+	position: absolute;
+	width: 1024px;
+	word-wrap: normal;
+}
+
+/* Text Utility Classes */
+.main-title {
+	color: #666;
+	font-size: 48px;
+	margin-bottom: 30px;
+	padding-top: 26px;
+	text-align: center;
+}
+.subtitle {
+	color: #F07C17;
+	font-size: 24px;
+	font-weight: bold;
+	margin-bottom: 30px;
+	margin-top: 0;
+}
+.body-copy {
+	color: #999999;
+	font-size: 16px;
+	line-height: 32px;
+}
+/*End Text Utility Classes*/
+
+.mug-image {
+	max-width: 373px;
+}
+
+.feature-module {
+	border: 1px solid #dddddd;
+	margin-top: 30px;
+	padding: 30px;
+}
+
+.feature-list {
+	padding-left: 39px;
+
+}
